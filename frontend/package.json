@@ -8,10 +8,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-<<<<<<< HEAD
     "@vitejs/plugin-react": "^5.1.1",
-=======
->>>>>>> 5cf4cf597a2691669cd3840488c231bdd0947936
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-router-dom": "6.30.2"
