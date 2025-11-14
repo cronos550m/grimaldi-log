@@ -1,0 +1,72 @@
+{
+  "palette": {
+    "primary": "#0b63b7",
+    "accent": "#14a6c3"
+  },
+  "content": {
+    "title": {
+      "es": "Transporte Internacional y Nacional de Carga",
+      "en": "International and National Freight Transport"
+    },
+    "subtitle": {
+      "es": "Conectando Argentina con el mundo desde el puerto de Buenos Aires.",
+      "en": "Connecting Argentina with the world from the port of Buenos Aires."
+    },
+    "services": [
+      {
+        "title": {
+          "es": "Transporte Nacional",
+          "en": "National Transport"
+        },
+        "desc": {
+          "es": "Flota refrigerada para todo el pa\u00eds.",
+          "en": "Refrigerated fleet across the country."
+        }
+      },
+      {
+        "title": {
+          "es": "Transporte Internacional",
+          "en": "International Transport"
+        },
+        "desc": {
+          "es": "Exportaciones desde Buenos Aires.",
+          "en": "Exports from Buenos Aires."
+        }
+      },
+      {
+        "title": {
+          "es": "Transporte de Contenedores",
+          "en": "Container Transport"
+        },
+        "desc": {
+          "es": "Chasis tipo ara\u00f1a para contenedores.",
+          "en": "Spider-type chassis for containers."
+        }
+      },
+      {
+        "title": {
+          "es": "Log\u00edstica Integral",
+          "en": "Integral Logistics"
+        },
+        "desc": {
+          "es": "Gesti\u00f3n completa: retiro, traslado y entrega.",
+          "en": "Full management: pickup, transit and delivery."
+        }
+      }
+    ]
+  },
+  "testimonials": [
+    {
+      "name": "Mar\u00eda L\u00f3pez",
+      "company": "Distribuciones del Sur",
+      "text_es": "Excelente servicio y puntualidad en las entregas.",
+      "text_en": "Excellent service and punctual deliveries."
+    },
+    {
+      "name": "John Smith",
+      "company": "Fresh Foods Inc.",
+      "text_es": "Manejaron nuestra cadena de fr\u00edo sin problemas.",
+      "text_en": "They handled our cold chain flawlessly."
+    }
+  ]
+}
